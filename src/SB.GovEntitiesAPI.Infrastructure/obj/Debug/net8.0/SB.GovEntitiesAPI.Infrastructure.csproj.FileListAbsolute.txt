@@ -1,0 +1,17 @@
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/bin/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.deps.json
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/bin/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/bin/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.pdb
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/bin/Debug/net8.0/SB.GovEntitiesAPI.Application.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/bin/Debug/net8.0/SB.GovEntitiesAPI.Domain.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/bin/Debug/net8.0/SB.GovEntitiesAPI.Domain.pdb
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/bin/Debug/net8.0/SB.GovEntitiesAPI.Application.pdb
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.AssemblyInfo.cs
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEn.30269EA9.Up2Date
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/refint/SB.GovEntitiesAPI.Infrastructure.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/SB.GovEntitiesAPI.Infrastructure.pdb
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/Debug/net8.0/ref/SB.GovEntitiesAPI.Infrastructure.dll

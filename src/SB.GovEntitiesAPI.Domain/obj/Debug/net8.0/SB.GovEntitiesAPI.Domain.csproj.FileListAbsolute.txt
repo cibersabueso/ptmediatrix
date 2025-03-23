@@ -1,0 +1,11 @@
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/bin/Debug/net8.0/SB.GovEntitiesAPI.Domain.deps.json
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/bin/Debug/net8.0/SB.GovEntitiesAPI.Domain.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/bin/Debug/net8.0/SB.GovEntitiesAPI.Domain.pdb
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/SB.GovEntitiesAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/SB.GovEntitiesAPI.Domain.AssemblyInfoInputs.cache
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/SB.GovEntitiesAPI.Domain.AssemblyInfo.cs
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/SB.GovEntitiesAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/SB.GovEntitiesAPI.Domain.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/refint/SB.GovEntitiesAPI.Domain.dll
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/SB.GovEntitiesAPI.Domain.pdb
+/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/Debug/net8.0/ref/SB.GovEntitiesAPI.Domain.dll
