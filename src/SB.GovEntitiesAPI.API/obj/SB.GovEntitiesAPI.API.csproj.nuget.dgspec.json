@@ -1,0 +1,365 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.API/SB.GovEntitiesAPI.API.csproj": {}
+  },
+  "projects": {
+    "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.API/SB.GovEntitiesAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.API/SB.GovEntitiesAPI.API.csproj",
+        "projectName": "SB.GovEntitiesAPI.API",
+        "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.API/SB.GovEntitiesAPI.API.csproj",
+        "packagesPath": "/Users/enrique/.nuget/packages/",
+        "outputPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj"
+              },
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj"
+              },
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/SB.GovEntitiesAPI.Infrastructure.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/SB.GovEntitiesAPI.Infrastructure.csproj"
+              },
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Services/SB.GovEntitiesAPI.Services.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Services/SB.GovEntitiesAPI.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj",
+        "projectName": "SB.GovEntitiesAPI.Application",
+        "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj",
+        "packagesPath": "/Users/enrique/.nuget/packages/",
+        "outputPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj",
+        "projectName": "SB.GovEntitiesAPI.Domain",
+        "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj",
+        "packagesPath": "/Users/enrique/.nuget/packages/",
+        "outputPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/SB.GovEntitiesAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/SB.GovEntitiesAPI.Infrastructure.csproj",
+        "projectName": "SB.GovEntitiesAPI.Infrastructure",
+        "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/SB.GovEntitiesAPI.Infrastructure.csproj",
+        "packagesPath": "/Users/enrique/.nuget/packages/",
+        "outputPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj"
+              },
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Services/SB.GovEntitiesAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Services/SB.GovEntitiesAPI.Services.csproj",
+        "projectName": "SB.GovEntitiesAPI.Services",
+        "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Services/SB.GovEntitiesAPI.Services.csproj",
+        "packagesPath": "/Users/enrique/.nuget/packages/",
+        "outputPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/enrique/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Application/SB.GovEntitiesAPI.Application.csproj"
+              },
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Domain/SB.GovEntitiesAPI.Domain.csproj"
+              },
+              "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/SB.GovEntitiesAPI.Infrastructure.csproj": {
+                "projectPath": "/Users/enrique/Documents/pruebatecnica/src/SB.GovEntitiesAPI.Infrastructure/SB.GovEntitiesAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
